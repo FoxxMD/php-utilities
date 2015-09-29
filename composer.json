@@ -1,0 +1,17 @@
+{
+    "name": "foxxmd/php-utilities",
+    "description": "Collection of helpers/utilities I use on a daily basis",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FoxxMD",
+            "email": "matt.duncan13@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FoxxMD\\Utilities\\": "src"
+        }
+    },
+}
